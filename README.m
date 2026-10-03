@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=80&lines=%E2%9A%A1+SUBHAM+THAKUR+%F0%9F%9A%80;%F0%9F%91%8B+WELCOME+TO+MY+PROFILE+%F0%9F%8C%9F" />
+# ⚡ SUBHAM THAKUR ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%9A%80+FUTURE+DEVELOPER+%F0%9F%92%BB;%F0%9F%90%8D+CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE+%E2%9A%A1;%F0%9F%8C%90+EXPLORING+THE+DIGITAL+WORLD+%F0%9F%92%A1" />
+## 🚀 FUTURE DEVELOPER
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Future+Developer+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate;Turning+Ideas+Into+Reality+%F0%9F%92%BB;Welcome+To+My+Digital+Space+%F0%9F%8C%8C" />
 
 <br>
 
-### ⚡ 💻 🐍 **BUILD • LEARN • CREATE • EVOLVE** 🚀 🔥
+### ✦ BUILDING THE FUTURE, ONE LINE OF CODE AT A TIME ✦
 
 </div>
 
@@ -40,7 +42,7 @@ I believe every line of code is another step toward becoming a better developer.
 
 ## 💻 CODE • CREATE • REPEAT
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%92%A1+Learning+Through+Building;%F0%9F%8C%90+Exploring+Technology;%F0%9F%90%8D+Writing+Clean+Code;%E2%9A%A1+Never+Stop+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=550&lines=Learning+Through+Building+%F0%9F%92%A1;Exploring+Technology+%F0%9F%8C%90;Writing+Clean+Code+%F0%9F%90%8D;Never+Stop+Improving+%E2%9A%A1" />
 
 </div>
 
