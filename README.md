@@ -1,23 +1,23 @@
-# 👋 Hey, I'm Subham Thakur
+<!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<div align="center">
 
-<h3 align="center">💻 Python Developer | 🧑‍💻 Programmer | 🎮 Tech & Gaming Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Subham%20Thakur&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Developer;Learning+Every+Day;Building+Cool+Projects;Tech+%26+Gaming+Enthusiast;Welcome+to+my+GitHub!"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Future+Developer+%F0%9F%9A%80;Python+Programmer+%F0%9F%90%8D;Software+Development+Enthusiast+%F0%9F%92%BB;Tech+%26+Gaming+Enthusiast+%F0%9F%8E%AE;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%E2%9A%A1"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-* 🔭 Currently working on **Python & Computer Science**
-* 🌱 Learning **Advanced Python, OOP & Databases**
-* 💻 Interested in **Software Development**
-* 🎮 Tech & Gaming Enthusiast
-* 🤝 Open to collaborating on interesting projects
-* ⚡ Always learning and building something new
+* 🔭 **Currently working on:** Python & Computer Science
+* 🌱 **Currently learning:** Advanced Python, OOP & Databases
+* 💻 **Interested in:** Software Development
+* 🎮 **Passionate about:** Technology & Gaming
+* 🤝 **Open to:** Collaborating on interesting projects
+* ⚡ **Motto:** Code • Learn • Build • Repeat
 
 ---
 
@@ -25,68 +25,65 @@
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js"/>
-</p>
+* 🐍 Python
+* 🗄️ SQL
 
-### 🔧 Tools
+### 🔧 Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
+* 🐙 Git & GitHub
+* 🗃️ MySQL
+* 💻 VS Code
+* 🖥️ Windows
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhamthakur-5&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamthakur-5&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Subhamthakur-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamthakur-5&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subhamthakur-5&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Subhamthakur-5&theme=tokyonight&hide_border=true"/>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhamthakur-5&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/Subhamthakur-5">
-    <img src="https://img.shields.io/badge/GitHub-Subhamthakur--5-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhamthakur-5&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## ⚡ GitHub Profile
+## 🚀 What I'm Working On
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhamthakur-5&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-<h3 align="center">💡 Code • Learn • Build • Repeat</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-
+* 🐍 Improving my **Python programming**
+* 🧠 Learning **Object-Oriented Programming**
+* 🗄️ Working with **Databases & SQL**
+* 💻 Building **student & software projects**
+* 🤝 Contributing to **TeamThunder**
+* 📚 Learning something new every day
